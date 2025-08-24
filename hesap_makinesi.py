@@ -1,5 +1,7 @@
-#Toplama, çıkarma , bölme, çarpma 
-#özelliklerini yapan bir hesap makinesi örneği
+
+# Bu dosya, temel matematiksel işlemleri (toplama, çıkarma, çarpma, bölme) yapan basit bir hesap makinesi örneğidir.
+# Öğrenciler için hazırlanmıştır. Kullanıcıdan iki sayı ve bir işlem seçmesi istenir, ardından sonucu ekrana yazdırır.
+# Her fonksiyon, ilgili matematiksel işlemi gerçekleştirir ve sonucu döndürür.
 
 def toplama(a, b):
     return a + b
