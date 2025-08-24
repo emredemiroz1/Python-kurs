@@ -1,3 +1,4 @@
+# Bu eğitim reposu Emre Demiroz tarafından açık kaynak olarak sunulmuştur.
 # Sayısal veri türleri
 tam_sayi = 10  # Integer (int)
 ondalik_sayi = 3.14  # Float
@@ -40,3 +41,6 @@ print(f"NoneType: {bos}")
 ###################
 mesaj = input("Bir mesaj girin: ")
 print(f"Merhaba {mesaj}")
+
+
+##################
