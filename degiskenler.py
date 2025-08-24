@@ -35,3 +35,8 @@ print(f"Demet: {demet}")
 print(f"Sözlük: {sozluk}")
 print(f"Küme: {kume}")
 print(f"NoneType: {bos}") 
+
+
+###################
+mesaj = input("Bir mesaj girin: ")
+print(f"Merhaba {mesaj}")
